@@ -1,0 +1,20 @@
+@media(max-width: 412px){
+    header {
+        padding: 10px;
+    }
+
+    .foto {
+        height: 100%;
+    }
+
+    .texto {
+        font-size: 0.90em;
+        padding: 5px;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+    }
+}
+  
